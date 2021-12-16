@@ -12,12 +12,12 @@ namespace BasicGit61
 
         public void PrintHerul()
         {
-
+            Console.WriteLine("Contoh dari Herul");
         }
         
         public void PrintJabar()
         {
-
+            Console.WriteLine("Halo. saya Jabar.");
         }
         
         public void PrintAgnes()
@@ -27,7 +27,7 @@ namespace BasicGit61
         
         public void PrintCandra()
         {
-
+            Console.WriteLine("Hello World!");
         }
     }
 }
