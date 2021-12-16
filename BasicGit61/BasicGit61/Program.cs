@@ -9,6 +9,7 @@ namespace BasicGit61
             Console.WriteLine("Hello World!");
             Console.WriteLine("Hello World! dari Herul");
             Console.WriteLine("Hello World! 2x dari Herul");
+            Console.WriteLine("Hello World! 1x dari Candra");
         }
     }
 }
