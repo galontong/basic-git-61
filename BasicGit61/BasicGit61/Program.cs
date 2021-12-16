@@ -9,5 +9,25 @@ namespace BasicGit61
             Console.WriteLine("Hello World!");
             Console.WriteLine("Hello World! dari Herul");
         }
+
+        public void PrintHerul()
+        {
+
+        }
+        
+        public void PrintJabar()
+        {
+
+        }
+        
+        public void PrintAgnes()
+        {
+
+        }
+        
+        public void PrintCandra()
+        {
+
+        }
     }
 }
