@@ -22,7 +22,7 @@ namespace BasicGit61
         
         public void PrintAgnes()
         {
-            Console.WriteLine("Halo saya Agnes");
+            Console.WriteLine("Halo saya Agnes dasdasd");
         }
         
         public void PrintCandra()
