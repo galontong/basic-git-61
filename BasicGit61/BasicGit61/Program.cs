@@ -12,7 +12,7 @@ namespace BasicGit61
 
         public void PrintHerul()
         {
-            Console.WriteLine("Contoh dari Herul ganti lagi");
+            Console.WriteLine("Contoh dari Timothy");
         }
         
         public void PrintJabar()
