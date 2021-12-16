@@ -17,7 +17,7 @@ namespace BasicGit61
         
         public void PrintJabar()
         {
-
+            Console.WriteLine("Halo. saya Jabar.");
         }
         
         public void PrintAgnes()
