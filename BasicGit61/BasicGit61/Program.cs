@@ -29,5 +29,9 @@ namespace BasicGit61
         {
             Console.WriteLine("Hello World!");
         }
+        public void PrintBadru()
+        {
+            Console.WriteLine("Halo Badru");
+        }
     }
 }
